@@ -8,7 +8,7 @@
 	* [Obtaining](#obtaining)
 	* [Usage](#usage)
 	* [Docker and Singularity](#docker-and-singularity)	
-  * [Gene list](#gene-list)	
+ 	* [Gene list](#gene-list)	
 4. [Litterature review](#litterature-review)
 5. [Core Contributors](#core-contributors)
 6. [Contributing](#contributing)
