@@ -22,7 +22,7 @@ ALSgeneScanner is a pipeline designed for the analysis of NGS data of ALS patien
 ALSgeneScanner is based on the DNAscan analysis framework. For a detailed description of all ALSgeneScanner components please read the ALSgeneScanner preprint[the ALSgeneScanner preprint](https://www.biorxiv.org/content/biorxiv/early/2018/07/26/378158.full.pdf) and the [DNAscan preprint](https://www.biorxiv.org/content/biorxiv/early/2018/02/18/267195.full.pdf)
 
 
-![alt text](https://github.com/KHP-Informatics/DNAscan/raw/master/DNAscan_pipeline_pic.jp2)
+![alt text](https://github.com/KHP-Informatics/ALSgeneScanner/raw/master/Figure1_ALSgeneScaner.jpg)
 
 
 ## Citation
