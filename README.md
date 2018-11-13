@@ -47,7 +47,7 @@ Please register, download and extract Annovar before deploying ALSgene scanner [
 
 #### Local Deployment
 
-To use ALSgeneScanner please first obtain the most recent DNAscan development tree using git:
+To use ALSgeneScanner please first obtain the most recent DNAscan development tree using git (command line below) or clinking [here](https://github.com/KHP-Informatics/DNAscan/archive/master.zip) and unziping the downloaded file:
 
 ```bash
 git clone https://github.com/KHP-Informatics/DNAscan.git
