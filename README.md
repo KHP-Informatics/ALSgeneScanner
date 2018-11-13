@@ -63,7 +63,7 @@ source ~/.bashrc
 
 ```
 
-Where $num_cpus is the number of cpus available on the machine, e.g. 4. This script will download and install all dependencies as well as create the necessary index files. The latter might require a little time depending on the number of CPUs used. To find out the number of CPUs available on your computer use the command nproc.
+This script will download and install all dependencies and necessary index and reference files.
 
 #### Obtain with Docker
 
