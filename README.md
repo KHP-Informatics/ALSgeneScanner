@@ -108,21 +108,21 @@ To run the whole ALSgeneScanner pipeline on paired-end reads in fastq format sto
 Let's assume we have human paired end whole exome sequening data in two fastq files and want to perform snvs/indels calling vs hg19, annotation and explore the results using the iobio services. The DNAscan command line would be:
 
  ```bash
-./DNAscan/scripts/DNAscan.py -in data1.fq.gz -in2 data2.fq.gz -alsgenescanner -out /path/to/outdir
+python3 ./DNAscan/scripts/DNAscan.py -in data1.fq.gz -in2 data2.fq.gz -alsgenescanner -out /path/to/outdir
 
 ```
 
 ##### bam input
 
  ```bash
-./DNAscan/scripts/DNAscan.py -in data.bam -format bam -alsgenescanner -out /path/to/outdir
+python3 ./DNAscan/scripts/DNAscan.py -in data.bam -format bam -alsgenescanner -out /path/to/outdir
 
 ```
 
 ##### vcf input
 
  ```bash
-./DNAscan/scripts/DNAscan.py -in data.vcf.gz -format vcf -alsgenescanner -out /path/to/outdir
+python3 ./DNAscan/scripts/DNAscan.py -in data.vcf.gz -format vcf -alsgenescanner -out /path/to/outdir
 
 ```
 
