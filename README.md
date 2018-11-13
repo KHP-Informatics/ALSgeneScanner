@@ -41,7 +41,9 @@ ALSgeneScanner is based on the DNAscan analysis framework. For a detailed descri
 
 **Version:** 0.1
 
-Please make sure all dependencies are installed before running ALSgeneScanner. Instructions on how to install all dependencies are available in the following chapter. However a bash script to set up all dependencies (Annovar needs a manual registration and download step) is available in scripts.
+Please make sure all dependencies are installed before running ALSgeneScanner. Instructions on how to install all dependencies are available in the following chapter. However a bash script to set up all dependencies (Annovar needs a manual registration and download step) is available in the DNAscan/script directory.
+
+Please register, download and extract Annovar before deploying ALSgene scanner [link](http://www.openbioinformatics.org/annovar/annovar_download_form.php)
 
 #### Local Deployment
 
