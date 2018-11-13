@@ -57,7 +57,7 @@ Once you have downloaded DNAscan, you can set up all needed dependencies running
 
 ```bash
 
-./DNAscan/scripts/install_ALSgeneScanner.sh /path/to/DNAscan /path/to/annovar $num_cpus
+sudo bash DNAscan/scripts/install_ALSgeneScanner.sh /path/to/DNAscan /path/to/annovar
 
 source ~/.bashrc
 
