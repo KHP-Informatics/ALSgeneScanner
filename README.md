@@ -43,7 +43,7 @@ ALSgeneScanner is based on the DNAscan analysis framework. For a detailed descri
 
 Please make sure all dependencies are installed before running ALSgeneScanner. Instructions on how to install all dependencies are available in the following chapter. However a bash script to set up all dependencies (Annovar needs a manual registration and download step) is available in the DNAscan/script directory.
 
-Please register, download and extract Annovar before deploying ALSgene scanner [link](http://www.openbioinformatics.org/annovar/annovar_download_form.php)
+Please register, download and extract Annovar before deploying ALSgene scanner [link](http://download.openbioinformatics.org/annovar_download_form.php)
 
 #### Local Deployment
 
@@ -53,7 +53,7 @@ To use ALSgeneScanner please first obtain the most recent DNAscan development tr
 git clone https://github.com/KHP-Informatics/DNAscan.git
 ```
 
-Once you have downloaded DNAscan, you can set up all needed dependencies running the install_ALSgeneScanner.sh script available in DNAscan/scripts. Before running install_ALSgeneScanner.sh please download and uncompress Annovar by registering at the following [link](http://www.openbioinformatics.org/annovar/annovar_download_form.php). install_ALSgeneScanner.sh will install all software dependencies as well as hg19 reference genome and its hisat2 and bwa indexes (these jobs run in the background and will finish after the script ends) as well as update paths_and_configs.py. 
+Once you have downloaded DNAscan, you can set up all needed dependencies running the install_ALSgeneScanner.sh script available in DNAscan/scripts. Before running install_ALSgeneScanner.sh please download and uncompress Annovar by registering at the following [link](http://download.openbioinformatics.org/annovar_download_form.php). install_ALSgeneScanner.sh will install all software dependencies as well as hg19 reference genome and its hisat2 and bwa indexes (these jobs run in the background and will finish after the script ends) as well as update paths_and_configs.py. 
 
 ```bash
 
